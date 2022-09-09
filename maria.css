@@ -3,6 +3,6 @@ img{
     height: 10cm;
 }
 body{
-    background-image: url(299589575_1755671288110883_7174540128582849103_n.jpg);
-    background-position: 20cm;
+    background-image: url(/images/299589575_1755671288110883_7174540128582849103_n.jpg);
+    background-size: cover;
     }
